@@ -1,0 +1,17 @@
+.title {
+    text-align: center;
+    vertical-align: middle;
+    font-size: large;
+}
+
+.spacing {
+    border-spacing: 15px;
+    border: 1px solid black;
+}
+.header {
+    background-color: #E5E4E2;
+}
+
+tr:nth-child(odd) {
+    background-color: #E5E4E2;
+}
